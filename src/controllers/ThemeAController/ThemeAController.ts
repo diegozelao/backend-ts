@@ -1,4 +1,4 @@
-import ErrorHandler from '../models/ErrorHandler';
+import ErrorHandler from '../../models/ErrorHandler';
 
 class ThemeAController {
   defaultMethod() {
